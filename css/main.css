@@ -1,0 +1,23 @@
+html {
+  font-family: "Open Sans"
+}
+
+.btn {
+  color: #fff;
+}
+
+.btn-light {
+  background-color: #000;
+  border-color: #000;
+}
+
+.fieldset {
+  border-top: solid;
+  border-color: #000;
+}
+- *Typefaces:* `Open Sans`
+- *Colours:* `#fff`, `#000`, `#f2f2f2`
+- *Paddings:* `1rem`, `.5rem`
+- *Gridifier settings:* defaults
+- *Typografier settings:* defaults
+- *Modulifier settings:* select all
