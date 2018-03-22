@@ -8,6 +8,7 @@ body {
 
 h1 {
   border-bottom: solid;
+  border-width: 1px;
   border-color: #000;
 }
 
@@ -29,12 +30,10 @@ h1 {
   border-color: #000;
 }
 
-
 @media only screen and (min-width: 60em) {
 
   #name, #age, #details {
-  padding-top: 1rem;
+    padding-top: 1rem;
   }
-
 
 }
